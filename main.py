@@ -1,6 +1,7 @@
 import os
 import sys
 
+# One word for the boss: Hovercraft.
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 WORD = "Hovercraft"
